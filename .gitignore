@@ -1,0 +1,7 @@
+*.pyc
+*.mo
+.coverage
+htmlcov/
+*.swp
+*~
+*.sqlite3
