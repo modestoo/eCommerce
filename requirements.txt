@@ -1,7 +1,7 @@
 certifi==2018.1.18
 chardet==3.0.4
 dj-database-url==0.4.2
-Django==1.9.5
+Django==2.2.24
 heroku==0.1.4
 idna==2.6
 psycopg2==2.7.3.2
